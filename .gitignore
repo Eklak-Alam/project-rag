@@ -1,0 +1,6 @@
+.env
+chroma_db/
+data/*
+!data/.gitkeep
+__pycache__/
+*.pyc

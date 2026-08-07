@@ -1,0 +1,16 @@
+# Core LangChain Framework
+langchain
+langchain-community
+langchain-text-splitters
+
+# Model Integration (DeepSeek)
+langchain-deepseek
+
+# Vector Store & Embeddings Integration
+langchain-chroma
+langchain-huggingface
+sentence-transformers
+
+# PDF Loader & Environment Utilities
+pypdf
+python-dotenv
