@@ -1,6 +1,6 @@
 import streamlit as st
 from dotenv import load_dotenv
-from rag_engine import process_uploaded_pdf, get_response_stream 1
+from rag_engine import process_uploaded_pdf, get_response_stream
 
 load_dotenv()
 
